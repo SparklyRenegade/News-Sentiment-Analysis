@@ -26,9 +26,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-### Team Members:
-
-1. Atul Jha - [@Atul-04](https://github.com/Atul-04)
-2. Ashmit Verma - [@Ashmit-Verma](https://github.com/Ashmit-Verma)
-3. Ayush Dadhich - [@AyushDadhich07](https://github.com/AyushDadhich07)
-4. Aditya Damani - [@Aditya-Damani](https://github.com/Aditya-Damani)
